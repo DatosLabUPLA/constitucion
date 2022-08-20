@@ -1,0 +1,4 @@
+- art 87, debe decir 2 inciso, dice 7.
+- art 247, debe decir 1 inciso, dice 83.
+- art 269, debe decir 4 incisos, dice 5.
+- art 303, debe decir 5 incisos, dice 6.
